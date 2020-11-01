@@ -1,3 +1,6 @@
+/**
+ * Copyright (c) Ang Lee 2020 (ang.lee@gmail.com)
+ **/
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';

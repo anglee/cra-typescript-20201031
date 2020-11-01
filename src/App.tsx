@@ -1,7 +1,10 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.less';
+/**
+ * Copyright (c) Ang Lee 2020 (ang.lee@gmail.com)
+ **/
 import { Button } from 'antd';
+import React from 'react';
+import './App.less';
+import logo from './logo.svg';
 
 function App() {
   return (
